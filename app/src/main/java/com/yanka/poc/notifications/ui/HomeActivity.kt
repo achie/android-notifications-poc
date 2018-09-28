@@ -1,7 +1,8 @@
-package com.yanka.poc.notifications
+package com.yanka.poc.notifications.ui
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.yanka.poc.notifications.R
 
 class HomeActivity : AppCompatActivity() {
 
