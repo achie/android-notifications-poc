@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "779541044413",
+    "firebase_url": "https://notifications-sample-52102.firebaseio.com",
+    "project_id": "notifications-sample-52102",
+    "storage_bucket": "notifications-sample-52102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779541044413:android:c3fa2ad8c2554ca8",
+        "android_client_info": {
+          "package_name": "com.yanka.poc.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779541044413-pg7ruopu3grg5nahrein947g3749bh9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU8xxp2zg0zgbk4fEbWfoMYINd8uDZ8Bc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
